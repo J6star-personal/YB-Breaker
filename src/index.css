@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Vazirmatn', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  touch-action: none;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.font-arcade {
+  font-family: 'Press Start 2P', monospace;
+}

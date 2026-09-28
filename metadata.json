@@ -1,0 +1,6 @@
+{
+  "name": "YB Blocks",
+  "description": "بازی هیجان‌انگیز شکستن بلوک‌ها به سبک Many Bricks Breaker با ۱۰۰ مرحله جذاب و قابلیت بازی با موس و لمس",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
